@@ -1,8 +1,10 @@
-# 第 2 周考核 · <姓名>
+# 第 2 周考核 · 李政阳
 
-- 姓名：<姓名拼音>
-- 完成日期：2026-__-__
-- Ubuntu / ROS2 / Python / OpenCV 版本：<待填>
+- 姓名：李政阳
+- 姓名拼音：lizhengyang
+- GitHub：lizhengyang114514
+- 完成日期：2026-10-29
+- Ubuntu / ROS2 / Python / OpenCV 版本：Windows 11 / ROS2 未安装 / Python 3.10.22 / OpenCV 5.0.0
 
 > 说明：任务 1、2 的代码在 `src/detect.py`（检测）和 `src/visualize.py`（可视化 + 参数对比）。
 > 任务 3 的 ROS2 代码在 `src/` 下的两个包中（见第 3 节）。
